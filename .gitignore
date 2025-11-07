@@ -1,2 +1,5 @@
 node_modules
 .env
+/.vscode
+/getting-started/dist
+getting-started/package-lock.json
